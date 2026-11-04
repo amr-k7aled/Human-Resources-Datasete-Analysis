@@ -1,4 +1,6 @@
 Developed an end-to-end Human Resources Data Analysis project to extract insights and support data-driven HR decisions. The project involved data cleaning and preprocessing, Exploratory Data Analysis (EDA), analyzing factors affecting employee satisfaction and attrition, forecasting workforce trends using Machine Learning, and building an interactive Tableau dashboard to visualize key findings and KPIs.
+
+team
 Amr khaled saad
 Bishoy George karam
 Anas Ibrahim Abd Elfattah
