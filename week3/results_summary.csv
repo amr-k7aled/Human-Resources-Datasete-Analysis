@@ -1,0 +1,26 @@
+question,metric,value
+Q1,Test ROC-AUC,0.809
+Q1,Recall (Left),0.447
+Q1,Precision (Left),0.512
+Q1,Test ROC-AUC,0.809
+Q1,Recall (Left),0.447
+Q1,Precision (Left),0.512
+Q1,Test ROC-AUC,0.809
+Q1,Recall (Left),0.447
+Q1,Precision (Left),0.512
+Q3,Attrition rate in top-50 risk,0.88
+Q3,Base attrition rate,0.161
+Q4,4-class accuracy (RF),0.218
+Q4,4-class baseline accuracy,0.313
+Q4,Binary satisfied ROC-AUC (CV),0.464
+Q5,Factors with p<0.05,0.0
+Q6,Test R²,0.943
+Q6,MAE ($),812.91
+Q6,Median abs % error,0.113
+Q7,CV R² (linear),0.597
+Q7,MAE baseline (pts),3.055
+Q7,MAE model (pts),1.885
+Q8,Test ROC-AUC,0.847
+Q8,CV ROC-AUC,0.841
+Q9,Test ROC-AUC,0.763
+Q9,CV ROC-AUC,0.766
