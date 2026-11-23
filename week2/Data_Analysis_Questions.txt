@@ -1,0 +1,60 @@
+  Data Analysis Questions
+
+1. EMPLOYEE OVERVIEW
+--------------------
+1. What is the total number of employees in the company?
+2. How are employees distributed across the different departments?
+3. How are employees distributed by job roles and job levels?
+
+
+2. EMPLOYEE ATTRITION ANALYSIS
+------------------------------
+4. What is the overall employee attrition rate, and how many employees left the
+   company compared to those who stayed?
+5. Which job roles have the highest attrition rates in terms of both number
+   and percentage?
+6. Is there a relationship between working overtime (Overtime) and employee
+   attrition rates?
+7. Is there a relationship between the number of previous companies an employee
+   has worked for and their attrition rate?
+
+
+3. SALARY & COMPENSATION ANALYSIS
+---------------------------------
+8. What is the average monthly income of employees in each department?
+9. Is there a relationship between employees' monthly income and their
+   attrition rates?
+10. Do employees with lower salaries have higher attrition rates when compared
+    within the same job level?
+11. How do annual salary increases vary across departments and job levels?
+
+
+4. EMPLOYEE SATISFACTION ANALYSIS
+--------------------------------
+12. Which departments have the lowest average job satisfaction levels?
+13. Is there a relationship between environment satisfaction
+    (Environment Satisfaction) and employee retention?
+14. Which combination of job satisfaction-related factors, such as
+    Job Satisfaction, Environment Satisfaction, and Work-Life Balance,
+    is associated with the highest employee attrition rate?
+
+
+5. CAREER DEVELOPMENT ANALYSIS
+------------------------------
+15. What is the relationship between the time since an employee's last
+    promotion (Years Since Last Promotion) and their attrition rate?
+
+
+6. EMPLOYEE PERFORMANCE ANALYSIS
+--------------------------------
+16. Which departments have the highest average employee performance ratings
+    (Performance Rating)?
+17. Do employees with higher performance ratings receive larger salary
+    increases?
+
+
+7. HR RECOMMENDATIONS
+---------------------
+18. What are the top three recommendations that can be presented to the HR
+    department to help reduce employee attrition, and what numerical findings
+    support each recommendation?
